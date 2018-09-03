@@ -31,5 +31,6 @@ public class LoginTest {
     public void quit(){
         driver.quit();
         System.out.println("Успех!");
+        System.out.println("Успех!");
     }
 }
