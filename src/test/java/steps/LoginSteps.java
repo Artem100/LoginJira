@@ -14,8 +14,8 @@ public class LoginSteps {
     }
 
     public void loginSomeUser (){
-        loginPage.loginField("webinar5");
-        loginPage.passwordField("webinar5");
+        loginPage.loginField("");
+        loginPage.passwordField("");
         loginPage.loginButton();
     }
 }
